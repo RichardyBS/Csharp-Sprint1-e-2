@@ -14,13 +14,19 @@ API desenvolvida em .NET para gerenciamento de clientes, galpões, áreas, corre
    - .NET 8 ou superior instalado
    - (Opcional) Postman para testar endpoints
 
-2. **Rode a aplicação:**
+2. **Clone o repositório e acesse a pasta:**
+   ```bash
+   git clone [https://github.com/RichardyBS/Csharp-Sprint1-e-2]
+   cd "CsharpSprint1/MotoApi"
+   ```
+
+3. **Rode a aplicação:**
    ```bash
    dotnet run
    ```
    A API estará disponível em: `http://localhost:5133`
 
-3. **Acesse a documentação Swagger:**
+4. **Acesse a documentação Swagger:**
    - [http://localhost:5133/swagger](http://localhost:5133/swagger)
 
 ## Endpoints principais
