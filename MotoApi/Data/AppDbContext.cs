@@ -16,6 +16,6 @@ public class AppDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        // ...configurações de relacionamento e constraints...
+       
     }
 }

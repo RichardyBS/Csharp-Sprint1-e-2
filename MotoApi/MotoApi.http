@@ -1,6 +1,0 @@
-@MotoApi_HostAddress = http://localhost:5133
-
-GET {{MotoApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
