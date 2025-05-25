@@ -87,4 +87,4 @@ dotnet test
 
 ---
 
-Projeto desenvolvido para o Challenge 2025 - 1º Semestre (2TDS).
+Projeto desenvolvido para o Challenge 2025 - 1º Semestre (2TDSPW).
